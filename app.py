@@ -6,7 +6,7 @@ from flask import send_from_directory
 app = Flask(__name__)
 CORS(app)  # Enable CORS for all routes
 
-@app.route('/static/<path:filename>')
+@app.route('/public/<path:filename>')
 def static_files(filename):
     return send_from_directory('public', filename)
 
