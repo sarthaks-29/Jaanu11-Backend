@@ -1,0 +1,1646 @@
+{
+  "squads": [
+    {
+      "team_name": "Chennai Super Kings",
+      "team_logo": "/static/team_logos/Chennai_Super_Kings.png",
+      "players": [
+        {
+          "name": "MS Dhoni",
+          "role": "WK-Batter",
+          "nationality": "Indian",
+          "credits": "7.5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/57.png"
+        },
+        {
+          "name": "Dewald Brevis",
+          "role": "Batter",
+          "nationality": "Foreign",
+          "credits": "6.5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/797.png"
+        },
+        {
+          "name": "Devon Conway",
+          "role": "Batter",
+          "nationality": "Foreign",
+          "credits": "7",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/601.png"
+        },
+        {
+          "name": "Rahul Tripathi",
+          "role": "Batter",
+          "nationality": "Indian",
+          "credits": "5.5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/188.png"
+        },
+        {
+          "name": "Shaik Rasheed",
+          "role": "Batter",
+          "nationality": "Indian",
+          "credits": "6",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/778.png"
+        },
+        {
+          "name": "Vansh Bedi",
+          "role": "WK-Batter",
+          "nationality": "Indian",
+          "credits": "5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/3558.png"
+        },
+        {
+          "name": "Andre Siddarth",
+          "role": "Batter",
+          "nationality": "Indian",
+          "credits": "5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/3157.png"
+        },
+        {
+          "name": "Ayush Mhatre",
+          "role": "Batter",
+          "nationality": "Indian",
+          "credits": "6.5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/3497.png"
+        },
+        {
+          "name": "Rachin Ravindra",
+          "role": "All-Rounder",
+          "nationality": "Foreign",
+          "credits": "7",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/724.png"
+        },
+        {
+          "name": "Ravichandran Ashwin",
+          "role": "All-Rounder",
+          "nationality": "Indian",
+          "credits": "7",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/45.png"
+        },
+        {
+          "name": "Vijay Shankar",
+          "role": "All-Rounder",
+          "nationality": "Indian",
+          "credits": "5.5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/61.png"
+        },
+        {
+          "name": "Sam Curran",
+          "role": "All-Rounder",
+          "nationality": "Foreign",
+          "credits": "6.5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/138.png"
+        },
+        {
+          "name": "Anshul Kamboj",
+          "role": "All-Rounder",
+          "nationality": "Indian",
+          "credits": "6.5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/3106.png"
+        },
+        {
+          "name": "Deepak Hooda",
+          "role": "All-Rounder",
+          "nationality": "Indian",
+          "credits": "6",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/215.png"
+        },
+        {
+          "name": "Jamie Overton",
+          "role": "All-Rounder",
+          "nationality": "Foreign",
+          "credits": "6",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/1216.png"
+        },
+        {
+          "name": "Kamlesh Nagarkoti",
+          "role": "All-Rounder",
+          "nationality": "Indian",
+          "credits": "7",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/146.png"
+        },
+        {
+          "name": "Ramakrishna Ghosh",
+          "role": "All-Rounder",
+          "nationality": "Indian",
+          "credits": "5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/3559.png"
+        },
+        {
+          "name": "Ravindra Jadeja",
+          "role": "All-Rounder",
+          "nationality": "Indian",
+          "credits": "8",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/46.png"
+        },
+        {
+          "name": "Shivam Dube",
+          "role": "All-Rounder",
+          "nationality": "Indian",
+          "credits": "8",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/211.png"
+        },
+        {
+          "name": "Khaleel Ahmed",
+          "role": "Bowler",
+          "nationality": "Indian",
+          "credits": "8",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/8.png"
+        },
+        {
+          "name": "Noor Ahmad",
+          "role": "Bowler",
+          "nationality": "Foreign",
+          "credits": "8.5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/975.png"
+        },
+        {
+          "name": "Mukesh Choudhary",
+          "role": "Bowler",
+          "nationality": "Indian",
+          "credits": "8",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/970.png"
+        },
+        {
+          "name": "Nathan Ellis",
+          "role": "Bowler",
+          "nationality": "Foreign",
+          "credits": "8",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/633.png"
+        },
+        {
+          "name": "Shreyas Gopal",
+          "role": "Bowler",
+          "nationality": "Indian",
+          "credits": "6",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/192.png"
+        },
+        {
+          "name": "Matheesha Pathirana",
+          "role": "Bowler",
+          "nationality": "Foreign",
+          "credits": "8",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/1014.png"
+        }
+      ]
+    },
+    {
+      "team_name": "Delhi Capitals",
+      "team_logo": "/static/team_logos/Delhi_Capitals.png",
+      "players": [
+        {
+          "name": "KL Rahul",
+          "role": "WK-Batter",
+          "nationality": "Indian",
+          "credits": "9",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/19.png"
+        },
+        {
+          "name": "Jake Fraser-McGurk",
+          "role": "Batter",
+          "nationality": "Foreign",
+          "credits": "6.5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/3115.png"
+        },
+        {
+          "name": "Karun Nair",
+          "role": "Batter",
+          "nationality": "Indian",
+          "credits": "6.5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/131.png"
+        },
+        {
+          "name": "Faf du Plessis",
+          "role": "Batter",
+          "nationality": "Foreign",
+          "credits": "9.5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/94.png"
+        },
+        {
+          "name": "Donovan Ferreira",
+          "role": "WK-Batter",
+          "nationality": "Foreign",
+          "credits": "6.5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/2033.png"
+        },
+        {
+          "name": "Abishek Porel",
+          "role": "WK-Batter",
+          "nationality": "Indian",
+          "credits": "7.5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/1580.png"
+        },
+        {
+          "name": "Tristan Stubbs",
+          "role": "WK-Batter",
+          "nationality": "Foreign",
+          "credits": "7.5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/1017.png"
+        },
+        {
+          "name": "Axar Patel",
+          "role": "All-Rounder",
+          "nationality": "Indian",
+          "credits": "8.5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/110.png"
+        },
+        {
+          "name": "Sameer Rizvi",
+          "role": "All-Rounder",
+          "nationality": "Indian",
+          "credits": "6",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/1229.png"
+        },
+        {
+          "name": "Ashutosh Sharma",
+          "role": "All-Rounder",
+          "nationality": "Indian",
+          "credits": "7",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/3109.png"
+        },
+        {
+          "name": "Darshan Nalkande",
+          "role": "All-Rounder",
+          "nationality": "Indian",
+          "credits": "6",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/127.png"
+        },
+        {
+          "name": "Vipraj Nigam",
+          "role": "All-Rounder",
+          "nationality": "Indian",
+          "credits": "7",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/3560.png"
+        },
+        {
+          "name": "Ajay Mandal",
+          "role": "All-Rounder",
+          "nationality": "Indian",
+          "credits": "5.5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/1931.png"
+        },
+        {
+          "name": "Manvanth Kumar",
+          "role": "All-Rounder",
+          "nationality": "Indian",
+          "credits": "5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/3562.png"
+        },
+        {
+          "name": "Tripurana Vijay",
+          "role": "All-Rounder",
+          "nationality": "Indian",
+          "credits": "5.5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/3563.png"
+        },
+        {
+          "name": "Madhav Tiwari",
+          "role": "All-Rounder",
+          "nationality": "Indian",
+          "credits": "5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/3561.png"
+        },
+        {
+          "name": "Mitchell Starc",
+          "role": "Bowler",
+          "nationality": "Foreign",
+          "credits": "9",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/31.png"
+        },
+        {
+          "name": "T. Natarajan",
+          "role": "Bowler",
+          "nationality": "Indian",
+          "credits": "6.5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/224.png"
+        },
+        {
+          "name": "Mohit Sharma",
+          "role": "Bowler",
+          "nationality": "Indian",
+          "credits": "7",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/100.png"
+        },
+        {
+          "name": "Mukesh Kumar",
+          "role": "Bowler",
+          "nationality": "Indian",
+          "credits": "7.5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/1462.png"
+        },
+        {
+          "name": "Dushmantha Chameera",
+          "role": "Bowler",
+          "nationality": "Foreign",
+          "credits": "6",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/608.png"
+        },
+        {
+          "name": "Kuldeep Yadav",
+          "role": "Bowler",
+          "nationality": "Indian",
+          "credits": "8.5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/14.png"
+        }
+      ]
+    },
+    {
+      "team_name": "Gujarat Titans",
+      "team_logo": "/static/team_logos/Gujarat_Titans.png",
+      "players": [
+        {
+          "name": "Shubman Gill",
+          "role": "Batter",
+          "nationality": "Indian",
+          "credits": "9",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/62.png"
+        },
+        {
+          "name": "Jos Buttler",
+          "role": "WK-Batter",
+          "nationality": "Foreign",
+          "credits": "9",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/182.png"
+        },
+        {
+          "name": "Kumar Kushagra",
+          "role": "WK-Batter",
+          "nationality": "Indian",
+          "credits": "5.5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/3101.png"
+        },
+        {
+          "name": "Anuj Rawat",
+          "role": "WK-Batter",
+          "nationality": "Indian",
+          "credits": "6",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/534.png"
+        },
+        {
+          "name": "Sherfane Rutherford",
+          "role": "Batter",
+          "nationality": "Foreign",
+          "credits": "7.5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/122.png"
+        },
+        {
+          "name": "Nishant Sindhu",
+          "role": "All-Rounder",
+          "nationality": "Indian",
+          "credits": "5.5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/791.png"
+        },
+        {
+          "name": "Mahipal Lomror",
+          "role": "All-Rounder",
+          "nationality": "Indian",
+          "credits": "6",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/184.png"
+        },
+        {
+          "name": "Washington Sundar",
+          "role": "All-Rounder",
+          "nationality": "Indian",
+          "credits": "8",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/20.png"
+        },
+        {
+          "name": "Mohd. Arshad Khan",
+          "role": "All-Rounder",
+          "nationality": "Indian",
+          "credits": "6.5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/988.png"
+        },
+        {
+          "name": "Sai Kishore",
+          "role": "All-Rounder",
+          "nationality": "Indian",
+          "credits": "7",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/544.png"
+        },
+        {
+          "name": "Jayant Yadav",
+          "role": "All-Rounder",
+          "nationality": "Indian",
+          "credits": "6",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/165.png"
+        },
+        {
+          "name": "Karim Janat",
+          "role": "All-Rounder",
+          "nationality": "Foreign",
+          "credits": "6",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/247.png"
+        },
+        {
+          "name": "Sai Sudharsan",
+          "role": "All-Rounder",
+          "nationality": "Indian",
+          "credits": "9",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/976.png"
+        },
+        {
+          "name": "Dasun shanaka",
+          "role": "All-Rounder",
+          "nationality": "Foreign",
+          "credits": "6",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/375.png"
+        },
+        {
+          "name": "Shahrukh Khan",
+          "role": "All-Rounder",
+          "nationality": "Indian",
+          "credits": "6.5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/590.png"
+        },
+        {
+          "name": "Kagiso Rabada",
+          "role": "Bowler",
+          "nationality": "Foreign",
+          "credits": "7.5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/116.png"
+        },
+        {
+          "name": "Mohammed Siraj",
+          "role": "Bowler",
+          "nationality": "Indian",
+          "credits": "8.5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/63.png"
+        },
+        {
+          "name": "Prasidh Krishna",
+          "role": "Bowler",
+          "nationality": "Indian",
+          "credits": "9",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/150.png"
+        },
+        {
+          "name": "Manav Suthar",
+          "role": "Bowler",
+          "nationality": "Indian",
+          "credits": "5.5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/2443.png"
+        },
+        {
+          "name": "Gerald Coetzee",
+          "role": "Bowler",
+          "nationality": "Foreign",
+          "credits": "6.5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/2535.png"
+        },
+        {
+          "name": "Gurnoor Singh Brar",
+          "role": "Bowler",
+          "nationality": "Indian",
+          "credits": "5.5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/1231.png"
+        },
+        {
+          "name": "Ishant Sharma",
+          "role": "Bowler",
+          "nationality": "Indian",
+          "credits": "7",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/50.png"
+        },
+        {
+          "name": "Kulwant Khejroliya",
+          "role": "Bowler",
+          "nationality": "Indian",
+          "credits": "6.5K Khejroliya",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/204.png"
+        },
+        {
+          "name": "Rahul Tewatia",
+          "role": "Bowler",
+          "nationality": "Indian",
+          "credits": "7.5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/120.png"
+        },
+        {
+          "name": "Rashid Khan",
+          "role": "Bowler",
+          "nationality": "Foreign",
+          "credits": "8",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/218.png"
+        }
+      ]
+    },
+    {
+      "team_name": "Kolkata Knight Riders",
+      "team_logo": "/static/team_logos/Kolkata_Knight_Riders.png",
+      "players": [
+        {
+          "name": "Ajinkya Rahane",
+          "role": "Batter",
+          "nationality": "Indian",
+          "credits": "8.5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/44.png"
+        },
+        {
+          "name": "Rinku Singh",
+          "role": "Batter",
+          "nationality": "Indian",
+          "credits": "7",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/152.png"
+        },
+        {
+          "name": "Quinton de Kock",
+          "role": "WK-Batter",
+          "nationality": "Foreign",
+          "credits": "7.5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/170.png"
+        },
+        {
+          "name": "Rahmanullah Gurbaz",
+          "role": "WK-Batter",
+          "nationality": "Foreign",
+          "credits": "6.5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/641.png"
+        },
+        {
+          "name": "Angkrish Raghuvanshi",
+          "role": "Batter",
+          "nationality": "Indian",
+          "credits": "7",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/787.png"
+        },
+        {
+          "name": "Rovman Powell",
+          "role": "Batter",
+          "nationality": "Foreign",
+          "credits": "6.5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/329.png"
+        },
+        {
+          "name": "Manish Pandey",
+          "role": "Batter",
+          "nationality": "Indian",
+          "credits": "6.5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/16.png"
+        },
+        {
+          "name": "Luvnith Sisodia",
+          "role": "WK-Batter",
+          "nationality": "Indian",
+          "credits": "5.5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/1009.png"
+        },
+        {
+          "name": "Venkatesh Iyer",
+          "role": "All-Rounder",
+          "nationality": "Indian",
+          "credits": "7.5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/584.png"
+        },
+        {
+          "name": "Anukul Roy",
+          "role": "All-Rounder",
+          "nationality": "Indian",
+          "credits": "",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/160.png"
+        },
+        {
+          "name": "Moeen Ali",
+          "role": "All-Rounder",
+          "nationality": "Foreign",
+          "credits": "7",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/206.png"
+        },
+        {
+          "name": "Ramandeep Singh",
+          "role": "All-Rounder",
+          "nationality": "Indian",
+          "credits": "7",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/991.png"
+        },
+        {
+          "name": "Andre Russell",
+          "role": "All-Rounder",
+          "nationality": "Foreign",
+          "credits": "7.5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/141.png"
+        },
+        {
+          "name": "Anrich Nortje",
+          "role": "Bowler",
+          "nationality": "Foreign",
+          "credits": "7",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/142.png"
+        },
+        {
+          "name": "Vaibhav Arora",
+          "role": "Bowler",
+          "nationality": "Indian",
+          "credits": "7.5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/583.png"
+        },
+        {
+          "name": "Mayank Markande",
+          "role": "Bowler",
+          "nationality": "Indian",
+          "credits": "6",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/87.png"
+        },
+        {
+          "name": "Spencer Johnson",
+          "role": "Bowler",
+          "nationality": "Foreign",
+          "credits": "6.5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/2518.png"
+        },
+        {
+          "name": "Harshit Rana",
+          "role": "Bowler",
+          "nationality": "Indian",
+          "credits": "8",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/1013.png"
+        },
+        {
+          "name": "Sunil Narine",
+          "role": "Bowler",
+          "nationality": "Foreign",
+          "credits": "9",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/156.png"
+        },
+        {
+          "name": "Varun Chakaravarthy",
+          "role": "Bowler",
+          "nationality": "Indian",
+          "credits": "8.5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/140.png"
+        },
+        {
+          "name": "Chetan Sakariya",
+          "role": "Bowler",
+          "nationality": "Indian",
+          "credits": "5.5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/592.png"
+        }
+      ]
+    },
+    {
+      "team_name": "Lucknow Super Giants",
+      "team_logo": "/static/team_logos/Lucknow_Super_Giants.png",
+      "players": [
+        {
+          "name": "Rishabh Pant",
+          "role": "WK-Batter",
+          "nationality": "Indian",
+          "credits": "6.5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/18.png"
+        },
+        {
+          "name": "David Miller",
+          "role": "Batter",
+          "nationality": "Foreign",
+          "credits": "7",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/128.png"
+        },
+        {
+          "name": "Aiden Markram",
+          "role": "Batter",
+          "nationality": "Foreign",
+          "credits": "8",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/287.png"
+        },
+        {
+          "name": "Aryan Juyal",
+          "role": "WK-Batter",
+          "nationality": "Indian",
+          "credits": "5.5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/990.png"
+        },
+        {
+          "name": "Himmat Singh",
+          "role": "Batter",
+          "nationality": "Indian",
+          "credits": "5.5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/203.png"
+        },
+        {
+          "name": "Matthew Breetzke",
+          "role": "Batter",
+          "nationality": "Foreign",
+          "credits": "6",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/2805.png"
+        },
+        {
+          "name": "Nicholas Pooran",
+          "role": "WK-Batter",
+          "nationality": "Foreign",
+          "credits": "9",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/136.png"
+        },
+        {
+          "name": "Mitchell Marsh",
+          "role": "All-Rounder",
+          "nationality": "Foreign",
+          "credits": "9",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/40.png"
+        },
+        {
+          "name": "Abdul Samad",
+          "role": "All-Rounder",
+          "nationality": "Indian",
+          "credits": "6.5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/525.png"
+        },
+        {
+          "name": "Shahbaz Ahamad",
+          "role": "All-Rounder",
+          "nationality": "Indian",
+          "credits": "6.5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/523.png"
+        },
+        {
+          "name": "Yuvraj Chaudhary",
+          "role": "All-Rounder",
+          "nationality": "Indian",
+          "credits": "5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/3564.png"
+        },
+        {
+          "name": "Rajvardhan Hangargekar",
+          "role": "All-Rounder",
+          "nationality": "Indian",
+          "credits": "5.5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/783.png"
+        },
+        {
+          "name": "Arshin Kulkarni",
+          "role": "All-Rounder",
+          "nationality": "Indian",
+          "credits": "5.5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/2788.png"
+        },
+        {
+          "name": "Ayush Badoni",
+          "role": "All-Rounder",
+          "nationality": "Indian",
+          "credits": "8",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/985.png"
+        },
+        {
+          "name": "Shardul Thakur",
+          "role": "All-Rounder",
+          "nationality": "Indian",
+          "credits": "7.5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/105.png"
+        },
+        {
+          "name": "Avesh Khan",
+          "role": "Bowler",
+          "nationality": "Indian",
+          "credits": "7.5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/109.png"
+        },
+        {
+          "name": "Akash Deep",
+          "role": "Bowler",
+          "nationality": "Indian",
+          "credits": "6.5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/1007.png"
+        },
+        {
+          "name": "M. Siddharth",
+          "role": "Bowler",
+          "nationality": "Indian",
+          "credits": "6",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/532.png"
+        },
+        {
+          "name": "Digvesh Singh",
+          "role": "Bowler",
+          "nationality": "Indian",
+          "credits": "7",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/3565.png"
+        },
+        {
+          "name": "Akash Singh",
+          "role": "Bowler",
+          "nationality": "Indian",
+          "credits": "5.5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/535.png"
+        },
+        {
+          "name": "Shamar Joseph",
+          "role": "Bowler",
+          "nationality": "Foreign",
+          "credits": "6",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/3105.png"
+        },
+        {
+          "name": "Prince Yadav",
+          "role": "Bowler",
+          "nationality": "Indian",
+          "credits": "7",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/1225.png"
+        },
+        {
+          "name": "Mayank Yadav",
+          "role": "Bowler",
+          "nationality": "Indian",
+          "credits": "7",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/987.png"
+        },
+        {
+          "name": "Ravi Bishnoi",
+          "role": "Bowler",
+          "nationality": "Indian",
+          "credits": "8",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/520.png"
+        }
+      ]
+    },
+    {
+      "team_name": "Mumbai Indians",
+      "team_logo": "/static/team_logos/Mumbai_Indians.png",
+      "players": [
+        {
+          "name": "Rohit Sharma",
+          "role": "Batter",
+          "nationality": "Indian",
+          "credits": "8.5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/6.png"
+        },
+        {
+          "name": "Surya Kumar Yadav",
+          "role": "Batter",
+          "nationality": "Indian",
+          "credits": "9",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/174.png"
+        },
+        {
+          "name": "Robin Minz",
+          "role": "WK-Batter",
+          "nationality": "Indian",
+          "credits": "6",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/3103.png"
+        },
+        {
+          "name": "Ryan Rickelton",
+          "role": "WK-Batter",
+          "nationality": "Foreign",
+          "credits": "8",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/743.png"
+        },
+        {
+          "name": "Shrijith Krishnan",
+          "role": "WK-Batter",
+          "nationality": "Indian",
+          "credits": "5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/3570.png"
+        },
+        {
+          "name": "Bevon Jacobs",
+          "role": "Batter",
+          "nationality": "Foreign",
+          "credits": "6",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/3567.png"
+        },
+        {
+          "name": "N. Tilak Varma",
+          "role": "Batter",
+          "nationality": "Indian",
+          "credits": "8.5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/993.png"
+        },
+        {
+          "name": "Hardik Pandya",
+          "role": "All-Rounder",
+          "nationality": "Indian",
+          "credits": "9",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/54.png"
+        },
+        {
+          "name": "Naman Dhir",
+          "role": "All-Rounder",
+          "nationality": "Indian",
+          "credits": "7",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/3107.png"
+        },
+        {
+          "name": "Will Jacks",
+          "role": "All-Rounder",
+          "nationality": "Foreign",
+          "credits": "7",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/1941.png"
+        },
+        {
+          "name": "Mitchell Santner",
+          "role": "All-Rounder",
+          "nationality": "Foreign",
+          "credits": "7.5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/75.png"
+        },
+        {
+          "name": "Raj Angad Bawa",
+          "role": "All-Rounder",
+          "nationality": "Indian",
+          "credits": "5.5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/781.png"
+        },
+        {
+          "name": "Vignesh Puthur",
+          "role": "All-Rounder",
+          "nationality": "Indian",
+          "credits": "6.5",
+          "image": "/Images/Mumbai Indians/Vignesh Puthur.png"
+        },
+        {
+          "name": "Corbin Bosch",
+          "role": "All-Rounder",
+          "nationality": "Foreign",
+          "credits": "6",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/1041.png"
+        },
+        {
+          "name": "Trent Boult",
+          "role": "Bowler",
+          "nationality": "Foreign",
+          "credits": "8",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/66.png"
+        },
+        {
+          "name": "Karn Sharma",
+          "role": "Bowler",
+          "nationality": "Indian",
+          "credits": "6.5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/98.png"
+        },
+        {
+          "name": "Deepak Chahar",
+          "role": "Bowler",
+          "nationality": "Indian",
+          "credits": "7",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/91.png"
+        },
+        {
+          "name": "Ashwani Kumar",
+          "role": "Bowler",
+          "nationality": "Indian",
+          "credits": "6.5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/3569.png"
+        },
+        {
+          "name": "Reece Topley",
+          "role": "Bowler",
+          "nationality": "Foreign",
+          "credits": "6",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/574.png"
+        },
+        {
+          "name": "V.Satyanarayana Penmetsa",
+          "role": "Bowler",
+          "nationality": "Indian",
+          "credits": "6",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/3568.png"
+        },
+        {
+          "name": "Arjun Tendulkar",
+          "role": "Bowler",
+          "nationality": "Indian",
+          "credits": "5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/585.png"
+        },
+        {
+          "name": "Mujeeb-ur-Rahman",
+          "role": "Bowler",
+          "nationality": "Foreign",
+          "credits": "6",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/134.png"
+        },
+        {
+          "name": "Jasprit Bumrah",
+          "role": "Bowler",
+          "nationality": "Indian",
+          "credits": "9",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/9.png"
+        }
+      ]
+    },
+    {
+      "team_name": "Punjab Kings",
+      "team_logo": "/static/team_logos/Punjab_Kings.png",
+      "players": [
+        {
+          "name": "Shreyas Iyer",
+          "role": "Batter",
+          "nationality": "Indian",
+          "credits": "9",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/12.png"
+        },
+        {
+          "name": "Nehal Wadhera",
+          "role": "Batter",
+          "nationality": "Indian",
+          "credits": "7.5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/1541.png"
+        },
+        {
+          "name": "Vishnu Vinod",
+          "role": "WK-Batter",
+          "nationality": "Indian",
+          "credits": "6",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/581.png"
+        },
+        {
+          "name": "Josh Inglis",
+          "role": "WK-Batter",
+          "nationality": "Foreign",
+          "credits": "7",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/647.png"
+        },
+        {
+          "name": "Harnoor Pannu",
+          "role": "Batter",
+          "nationality": "Indian",
+          "credits": "5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/784.png"
+        },
+        {
+          "name": "Pyla Avinash",
+          "role": "Batter",
+          "nationality": "Indian",
+          "credits": "5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/3573.png"
+        },
+        {
+          "name": "Prabhsimran Singh",
+          "role": "WK-Batter",
+          "nationality": "Indian",
+          "credits": "8",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/137.png"
+        },
+        {
+          "name": "Shashank Singh",
+          "role": "Batter",
+          "nationality": "Indian",
+          "credits": "7",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/191.png"
+        },
+        {
+          "name": "Marcus Stoinis",
+          "role": "All-Rounder",
+          "nationality": "Foreign",
+          "credits": "7",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/23.png"
+        },
+        {
+          "name": "Harpreet Brar",
+          "role": "All-Rounder",
+          "nationality": "Indian",
+          "credits": "7",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/130.png"
+        },
+        {
+          "name": "Marco Jansen",
+          "role": "All-Rounder",
+          "nationality": "Foreign",
+          "credits": "8",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/586.png"
+        },
+        {
+          "name": "Azmatullah Omarzai",
+          "role": "All-Rounder",
+          "nationality": "Foreign",
+          "credits": "6.5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/1354.png"
+        },
+        {
+          "name": "Priyansh Arya",
+          "role": "All-Rounder",
+          "nationality": "Indian",
+          "credits": "8.5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/3571.png"
+        },
+        {
+          "name": "Aaron Hardie",
+          "role": "All-Rounder",
+          "nationality": "Foreign",
+          "credits": "6",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/2704.png"
+        },
+        {
+          "name": "Musheer Khan",
+          "role": "All-Rounder",
+          "nationality": "Indian",
+          "credits": "5.5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/2813.png"
+        },
+        {
+          "name": "Suryansh Shedge",
+          "role": "All-Rounder",
+          "nationality": "Indian",
+          "credits": "5.5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/2146.png"
+        },
+        {
+          "name": "Arshdeep Singh",
+          "role": "Bowler",
+          "nationality": "Indian",
+          "credits": "8.5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/125.png"
+        },
+        {
+          "name": "Yuzvendra Chahal",
+          "role": "Bowler",
+          "nationality": "Indian",
+          "credits": "8.5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/10.png"
+        },
+        {
+          "name": "Vyshak Vijaykumar",
+          "role": "Bowler",
+          "nationality": "Indian",
+          "credits": "6.5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/2034.png"
+        },
+        {
+          "name": "Yash Thakur",
+          "role": "Bowler",
+          "nationality": "Indian",
+          "credits": "6",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/1550.png"
+        },
+        {
+          "name": "Lockie Ferguson",
+          "role": "Bowler",
+          "nationality": "Foreign",
+          "credits": "7",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/69.png"
+        },
+        {
+          "name": "Kuldeep Sen",
+          "role": "Bowler",
+          "nationality": "Indian",
+          "credits": "5.5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/1005.png"
+        },
+        {
+          "name": "Xavier Bartlett",
+          "role": "Bowler",
+          "nationality": "Foreign",
+          "credits": "6.5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/3572.png"
+        },
+        {
+          "name": "Pravin Dubey",
+          "role": "Bowler",
+          "nationality": "Indian",
+          "credits": "5.5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/548.png"
+        }
+      ]
+    },
+    {
+      "team_name": "Rajasthan Royals",
+      "team_logo": "/static/team_logos/Rajasthan_Royals.png",
+      "players": [
+        {
+          "name": "Sanju Samson",
+          "role": "WK-Batter",
+          "nationality": "Indian",
+          "credits": "9",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/190.png"
+        },
+        {
+          "name": "Shubham Dubey",
+          "role": "Batter",
+          "nationality": "Indian",
+          "credits": "6",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/3112.png"
+        },
+        {
+          "name": "Vaibhav Suryavanshi",
+          "role": "Batter",
+          "nationality": "Indian",
+          "credits": "5.5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/3498.png"
+        },
+        {
+          "name": "Kunal Rathore",
+          "role": "WK-Batter",
+          "nationality": "Indian",
+          "credits": "5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/1540.png"
+        },
+        {
+          "name": "Shimron Hetmyer",
+          "role": "Batter",
+          "nationality": "Foreign",
+          "credits": "8",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/210.png"
+        },
+        {
+          "name": "Yashasvi Jaiswal",
+          "role": "Batter",
+          "nationality": "Indian",
+          "credits": "9",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/533.png"
+        },
+        {
+          "name": "Dhruv Jurel",
+          "role": "WK-Batter",
+          "nationality": "Indian",
+          "credits": "8",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/1004.png"
+        },
+        {
+          "name": "Riyan Parag",
+          "role": "Batter",
+          "nationality": "Indian",
+          "credits": "8.5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/189.png"
+        },
+        {
+          "name": "Nitish Rana",
+          "role": "All-Rounder",
+          "nationality": "Indian",
+          "credits": "7.5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/148.png"
+        },
+        {
+          "name": "Yudhvir Singh Charak",
+          "role": "All-Rounder",
+          "nationality": "Indian",
+          "credits": "6.5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/587.png"
+        },
+        {
+          "name": "Jofra Archer",
+          "role": "Bowler",
+          "nationality": "Foreign",
+          "credits": "8.5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/181.png"
+        },
+        {
+          "name": "Maheesh Theekshana",
+          "role": "Bowler",
+          "nationality": "Foreign",
+          "credits": "7.5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/629.png"
+        },
+        {
+          "name": "Wanindu Hasaranga",
+          "role": "Bowler",
+          "nationality": "Foreign",
+          "credits": "7.5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/377.png"
+        },
+        {
+          "name": "Akash Madhwal",
+          "role": "Bowler",
+          "nationality": "Indian",
+          "credits": "6",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/1045.png"
+        },
+        {
+          "name": "Kumar Kartikeya Singh",
+          "role": "Bowler",
+          "nationality": "Indian",
+          "credits": "6.5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/1015.png"
+        },
+        {
+          "name": "Tushar Deshpande",
+          "role": "Bowler",
+          "nationality": "Indian",
+          "credits": "7",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/539.png"
+        },
+        {
+          "name": "Fazalhaq Farooqi",
+          "role": "Bowler",
+          "nationality": "Foreign",
+          "credits": "6.5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/1011.png"
+        },
+        {
+          "name": "Kwena Maphaka",
+          "role": "Bowler",
+          "nationality": "Foreign",
+          "credits": "5.5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/801.png"
+        },
+        {
+          "name": "Ashok Sharma",
+          "role": "Bowler",
+          "nationality": "Indian",
+          "credits": "5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/980.png"
+        },
+        {
+          "name": "Sandeep Sharma",
+          "role": "Bowler",
+          "nationality": "Indian",
+          "credits": "7",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/220.png"
+        }
+      ]
+    },
+    {
+      "team_name": "Royal Challengers Bengaluru",
+      "team_logo": "/static/team_logos/Royal_Challengers_Bengaluru.png",
+      "players": [
+        {
+          "name": "Rajat Patidar",
+          "role": "Batter",
+          "nationality": "Indian",
+          "credits": "8.5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/597.png"
+        },
+        {
+          "name": "Virat Kohli",
+          "role": "Batter",
+          "nationality": "Indian",
+          "credits": "9",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/2.png"
+        },
+        {
+          "name": "Phil Salt",
+          "role": "WK-Batter",
+          "nationality": "Foreign",
+          "credits": "9",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/1220.png"
+        },
+        {
+          "name": "Jitesh Sharma",
+          "role": "WK-Batter",
+          "nationality": "Indian",
+          "credits": "7.5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/1000.png"
+        },
+        {
+          "name": "Devdutt Padikkal",
+          "role": "Batter",
+          "nationality": "Indian",
+          "credits": "7.5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/200.png"
+        },
+        {
+          "name": "Swastik Chhikara",
+          "role": "Batter",
+          "nationality": "Indian",
+          "credits": "5.5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/3102.png"
+        },
+        {
+          "name": "Liam Livingstone",
+          "role": "All-Rounder",
+          "nationality": "Foreign",
+          "credits": "7",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/183.png"
+        },
+        {
+          "name": "Krunal Pandya",
+          "role": "All-Rounder",
+          "nationality": "Indian",
+          "credits": "8",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/17.png"
+        },
+        {
+          "name": "Swapnil Singh",
+          "role": "All-Rounder",
+          "nationality": "Indian",
+          "credits": "6",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/1483.png"
+        },
+        {
+          "name": "Tim David",
+          "role": "All-Rounder",
+          "nationality": "Foreign",
+          "credits": "7.5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/636.png"
+        },
+        {
+          "name": "Romario Shepherd",
+          "role": "All-Rounder",
+          "nationality": "Foreign",
+          "credits": "6.5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/371.png"
+        },
+        {
+          "name": "Manoj Bhandage",
+          "role": "All-Rounder",
+          "nationality": "Indian",
+          "credits": "6",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/1485.png"
+        },
+        {
+          "name": "Jacob Bethell",
+          "role": "All-Rounder",
+          "nationality": "Foreign",
+          "credits": "6.5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/869.png"
+        },
+        {
+          "name": "Josh Hazlewood",
+          "role": "Bowler",
+          "nationality": "Foreign",
+          "credits": "8.5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/36.png"
+        },
+        {
+          "name": "Rasikh Dar",
+          "role": "Bowler",
+          "nationality": "Indian",
+          "credits": "6.5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/172.png"
+        },
+        {
+          "name": "Suyash Sharma",
+          "role": "Bowler",
+          "nationality": "Indian",
+          "credits": "6",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/1932.png"
+        },
+        {
+          "name": "Bhuvneshwar Kumar",
+          "role": "Bowler",
+          "nationality": "Indian",
+          "credits": "8",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/15.png"
+        },
+        {
+          "name": "Nuwan Thushara",
+          "role": "Bowler",
+          "nationality": "Foreign",
+          "credits": "6.5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/813.png"
+        },
+        {
+          "name": "Lungisani Ngidi",
+          "role": "Bowler",
+          "nationality": "Foreign",
+          "credits": "6.5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/99.png"
+        },
+        {
+          "name": "Abhinandan Singh",
+          "role": "Bowler",
+          "nationality": "Indian",
+          "credits": "5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/3574.png"
+        },
+        {
+          "name": "Mohit Rathee",
+          "role": "Bowler",
+          "nationality": "Indian",
+          "credits": "5.5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/1935.png"
+        },
+        {
+          "name": "Yash Dayal",
+          "role": "Bowler",
+          "nationality": "Indian",
+          "credits": "7.5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/978.png"
+        }
+      ]
+    },
+    {
+      "team_name": "Sunrisers Hyderabad",
+      "team_logo": "/static/team_logos/Sunrisers_Hyderabad.png",
+      "players": [
+        {
+          "name": "Ishan Kishan",
+          "role": "WK-Batter",
+          "nationality": "Indian",
+          "credits": "7",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/164.png"
+        },
+        {
+          "name": "Atharva Taide",
+          "role": "Batter",
+          "nationality": "Indian",
+          "credits": "5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/1001.png"
+        },
+        {
+          "name": "Abhinav Manohar",
+          "role": "Batter",
+          "nationality": "Indian",
+          "credits": "6",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/974.png"
+        },
+        {
+          "name": "Aniket Verma",
+          "role": "Batter",
+          "nationality": "Indian",
+          "credits": "7",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/3576.png"
+        },
+        {
+          "name": "Sachin Baby",
+          "role": "Batter",
+          "nationality": "Indian",
+          "credits": "5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/599.png"
+        },
+        {
+          "name": "Smaran Ravichandran",
+          "role": "Batter",
+          "nationality": "Indian",
+          "credits": "5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/3752.png"
+        },
+        {
+          "name": "Heinrich Klaasen",
+          "role": "WK-Batter",
+          "nationality": "Foreign",
+          "credits": "9",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/202.png"
+        },
+        {
+          "name": "Travis Head",
+          "role": "Batter",
+          "nationality": "Foreign",
+          "credits": "7.5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/37.png"
+        },
+        {
+          "name": "Harshal Patel",
+          "role": "All-Rounder",
+          "nationality": "Indian",
+          "credits": "8.5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/114.png"
+        },
+        {
+          "name": "Kamindu Mendis",
+          "role": "All-Rounder",
+          "nationality": "Foreign",
+          "credits": "7",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/627.png"
+        },
+        {
+          "name": "Wiaan Mulder",
+          "role": "All-Rounder",
+          "nationality": "Foreign",
+          "credits": "6.5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/630.png"
+        },
+        {
+          "name": "Abhishek Sharma",
+          "role": "All-Rounder",
+          "nationality": "Indian",
+          "credits": "9",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/212.png"
+        },
+        {
+          "name": "Nitish Kumar Reddy",
+          "role": "All-Rounder",
+          "nationality": "Indian",
+          "credits": "7.5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/1944.png"
+        },
+        {
+          "name": "Pat Cummins",
+          "role": "Bowler",
+          "nationality": "Foreign",
+          "credits": "8.5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/33.png"
+        },
+        {
+          "name": "Mohammad Shami",
+          "role": "Bowler",
+          "nationality": "Indian",
+          "credits": "8",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/47.png"
+        },
+        {
+          "name": "Rahul Chahar",
+          "role": "Bowler",
+          "nationality": "Indian",
+          "credits": "6",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/171.png"
+        },
+        {
+          "name": "Simarjeet Singh",
+          "role": "Bowler",
+          "nationality": "Indian",
+          "credits": "6.5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/622.png"
+        },
+        {
+          "name": "Zeeshan Ansari",
+          "role": "Bowler",
+          "nationality": "Indian",
+          "credits": "6.5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/3575.png"
+        },
+        {
+          "name": "Jaydev Unadkat",
+          "role": "Bowler",
+          "nationality": "Indian",
+          "credits": "6.5",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/180.png"
+        },
+        {
+          "name": "Eshan Malinga",
+          "role": "Bowler",
+          "nationality": "Foreign",
+          "credits": "7",
+          "image": "https://documents.iplt20.com/ipl/IPLHeadshot2025/3339.png"
+        }
+      ]
+    }
+  ]
+}

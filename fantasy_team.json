@@ -1,0 +1,75 @@
+{
+  "players": [
+    {
+      "name": "Ryan Rickelton",
+      "team": "MI",
+      "role": "Wicketkeeper",
+      "credit": 7.0
+    },
+    {
+      "name": "Rohit Sharma",
+      "team": "MI",
+      "role": "Batsman",
+      "credit": 7.0
+    },
+    {
+      "name": "Will Jacks",
+      "team": "MI",
+      "role": "All-Rounder",
+      "credit": 7.0
+    },
+    {
+      "name": "Jasprit Bumrah",
+      "team": "MI",
+      "role": "Bowler",
+      "credit": 7.0
+    },
+    {
+      "name": "Prasidh Krishna",
+      "team": "GT",
+      "role": "Bowler",
+      "credit": 9.0
+    },
+    {
+      "name": "Rashid Khan",
+      "team": "GT",
+      "role": "Bowler",
+      "credit": 8.0
+    },
+    {
+      "name": "Hardik Pandya",
+      "team": "MI",
+      "role": "All-Rounder",
+      "credit": 7.0
+    },
+    {
+      "name": "Trent Boult",
+      "team": "MI",
+      "role": "Bowler",
+      "credit": 7.0
+    },
+    {
+      "name": "Deepak Chahar",
+      "team": "MI",
+      "role": "Bowler",
+      "credit": 7.0
+    },
+    {
+      "name": "Sai Sudharsan",
+      "team": "GT",
+      "role": "All-Rounder",
+      "credit": 9.0
+    },
+    {
+      "name": "Mohammed Siraj",
+      "team": "GT",
+      "role": "Bowler",
+      "credit": 8.5
+    }
+  ],
+  "total_credits": 83.5,
+  "match": "Mumbai Indians vs Gujarat Titans",
+  "venue": "Wankhade Stadium,Mumbai",
+  "captain": "Ryan Rickelton",
+  "vice_captain": "Rohit Sharma"
+}
