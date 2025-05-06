@@ -1,18 +1,15 @@
 from flask import Flask, jsonify
 import requests
 from flask_cors import CORS
-
+from flask import send_from_directory
 
 app = Flask(__name__)
 CORS(app)  # Enable CORS for all routes
 
+@app.route('/static/<path:filename>')
+def static_files(filename):
+    return send_from_directory('public', filename)
 
-from flask import send_from_directory
-
-# Serve any JSON or CSV file from the root directory
-@app.route('/<path:filename>')
-def serve_static_file(filename):
-    return send_from_directory(os.getcwd(), filename)
 
 
 API_URL = 'https://livescoreapi.thehindu.com/api/cricket/grouped/fixtures/3634'
