@@ -6,11 +6,11 @@ from flask import send_from_directory
 app = Flask(__name__)
 CORS(app)  # Enable CORS for all routes
 @app.route('/api/ipl_matches')
-def serve_squads():
-    return send_from_directory('.', 'ipl_matches_2025.json')
-@app.route('/public/<path:filename>')
-def static_files(filename):
-    return send_from_directory('public', filename)
+def serve_match():
+    with open('public/ipl_matches_2025.json') as f:
+        data = json.load(f)
+    return jsonify(data)
+
 
 
 
