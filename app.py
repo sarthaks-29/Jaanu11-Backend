@@ -161,8 +161,5 @@ def analyze_batter_vs_bowler(file, batter_name, bowler_name):
 @app.route('/player_images.json')
 def serve_player_images():
     return send_from_directory('.', 'player_images.json')
-@app.route('/player_images.json')
-def serve_player_images():
-    return send_from_directory('.', 'player_images.json')
 if __name__ == '__main__':
     app.run(debug=True)
