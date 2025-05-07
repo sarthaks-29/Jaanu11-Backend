@@ -158,5 +158,8 @@ def analyze_batter_vs_bowler(file, batter_name, bowler_name):
     # Convert all values to native Python types
     summary = {k: (int(v) if isinstance(v, (np.integer, int)) else float(v) if isinstance(v, (np.floating, float)) else v) for k, v in summary.items()}
     return summary
+@app.route('/player_images.json')
+def serve_player_images():
+    return send_from_directory('.', 'player_images.json')
 if __name__ == '__main__':
     app.run(debug=True)
